@@ -1,0 +1,15 @@
+{
+  "name": "Remove All Disabled Styles",
+  "identifier": "com.sketchapp.removealldisabledstyles",
+  "version": "1.0",
+  "description": "Removes all disabled styles from the selected layers",
+  "author": "Erik Gelderblom",
+  "updateURL": "https://github.com/erikfontanel/sketch-remove-all-disabled-styles/removealldisabledstyles.json",
+  "commands": [{
+    "script": "script.js",
+    "handler": "removeAllDisabledStyles",
+    "shortcut": "",
+    "name": "Remove All Disabled Styles",
+    "identifier": "removealldisabledstyles"
+  }]
+}
